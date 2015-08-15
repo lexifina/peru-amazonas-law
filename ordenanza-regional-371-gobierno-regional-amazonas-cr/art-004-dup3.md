@@ -1,0 +1,2 @@
+Artículo Cuarto.- La entidad responsable de la coordinación y sistematización de los resultados, que asume la Secretaria Técnica del Grupo Técnico de Gestión de Cuencas “Ríos Limpios”, recaerá en la Autoridad Nacional del Agua a través de sus Autoridades Locales del Agua.
+Artículo Décimo.- MODIFICAR, el artículo primero de la Ordenanza Regional Nº 237-GOBIERNO REGIONAL AMAZONAS/CR, el cual debe decir lo siguiente:

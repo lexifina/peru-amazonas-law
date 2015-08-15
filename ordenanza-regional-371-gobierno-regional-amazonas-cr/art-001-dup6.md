@@ -1,0 +1,21 @@
+Artículo Primero.- Aprobar la Conformación del Grupo Técnico Regional “Sistema de Conservación Regional (SICRE)”, quedando de la siguiente manera:
+1. APECO
+2. SPDA
+3. NCI
+4. IIAP
+5. Gobierno Regional de Amazonas, a través de la Autoridad Regional Ambiental.
+6. Municipalidad Provincial de Chachapoyas.
+7. Red de ACP
+8. SERNAMP
+Artículo Décimo Primero.- DISPONER a la secretaria del Consejo Regional, la publicación de la presente Ordenanza Regional en el Diario Oficial “El Peruano” y su inclusión en el portal electrónico del Gobierno Regional Amazonas.
+Artículo Décimo Segundo.- La presente Ordenanza Regional entrará en vigencia al día siguiente de su publicación en el Diario Oficial El Peruano, y será difundida a través del portal electrónico del Gobierno Regional de Amazonas.
+Comuníquese al señor Gobernador del Gobierno Regional de Amazonas, para su promulgación.
+En Chachapoyas, a los 24 días del mes de junio del año 2015.
+DIÓGENES CELIS JIMENEZ.
+Presidente
+Consejo Regional Amazonas
+POR TANTO:
+Mando se registre, publíque y cumpla.
+Dado en la Sede Central del Gobierno Regional de Amazonas, a los 21 días del mes de julio del 2015
+GILMER W. HORNA CORRALES
+Gobernador Regional
