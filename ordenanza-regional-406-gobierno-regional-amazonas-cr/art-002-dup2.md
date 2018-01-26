@@ -1,0 +1,1 @@
+Artículo Segundo.- DISPONER a la Gerencia General Regional, en coordinación con la Secretaria Técnica del Comité Regional de Seguridad Ciudadana, se informe trimestralmente al Consejo Regional sobre las acciones realizadas para el cumplimiento de las políticas del plan Regional de Seguridad Ciudadana 2017, mencionada en el artículo anterior.
