@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL Nº 423
+GOBIERNO REGIONAL AMAZONAS/CR
+EL GOBERNADOR REGIONAL DEL GOBIERNO REGIONAL AMAZONAS
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Amazonas, de conformidad con lo previsto en la Constitución Política del Perú de 1993, modificada por la Ley de Reforma Constitucional del Capítulo XIV, del Título IV, sobre Descentralización – Ley Nº 27680, Ley de Bases de la Descentralización – Ley Nº 27783, Ley Orgánica de Gobiernos Regionales – Ley Nº 27867 y su modificatoria, Ley Nº 27902 y demás Normas Complementarias; y,
+CONSIDERANDO:
+Que la Constitución Política del Perú, modificada por la Ley Nº 27680 – Ley de Reforma Constitucional del Capítulo XIV, del Título IV, sobre descentralización – Ley Nº 28607, en su artículo 191º establece que los Gobiernos Regionales Tienen autonomía política, económica y administrativa en los asuntos de su competencia.
+Que la Ley Nº 27783, Ley de Bases de Descentralización, en su artículo 35 precisa entre otras cosas, como competencias exclusivas de los gobiernos regionales: la Planificación del desarrollo integral de su región, la ejecución de programas socio económicas y la promoción de la formación de empresas y unidades económicas dentro de su ámbito para concertar sistemas productivos y de servicios.
+Que la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, en su artículo 48º señala como funciones específicas: Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar las políticas de fomento de la micro y pequeña empresa.
+Que el texto Único Ordenado de la Ley de Impulso al Desarrollo Productivo y al Crecimiento Empresarial, establece en su artículo 9º, que los Gobiernos Regionales deben crear en cada región, un Consejo Regional de la Micro y Pequeña Empresa (COREMYPE), con el objeto de promover el desarrollo, la formalización y la competitividad de la Micro y Pequeña Empresa (MYPE) en su ámbito geográfico y su articulación con los planes y programas nacionales.
+Que el artículo 5º de la de la referida Ley, establece los lineamientos que se deben seguir para la conformación de dicho Consejo, y asimismo en el artículo 12, se señala las funciones que le corresponde desarrollar.
+Que resulta inaplazable la creación del Consejo Regional de la Micro y Pequeña Empresa (COREMYPE), para la consolidación y desarrollo de este importante sector, así como para alentar e impulsar renovados emprendimientos que concluyan estableciendo nuevos núcleos empresariales.
+En uso de las facultades conferidas por la ley orgánica de Gobiernos Regionales, contando con el voto favorable de los Consejeros Regionales, y en uso de sus facultades conferidas por el inc. A) del Art. 37º de la Ley Nº 27867. Ley Orgánica de los Gobiernos Regionales y su modificatoria, Ley Nº 27902.
+Se ha Aprobado la Ordenanza Regional:
