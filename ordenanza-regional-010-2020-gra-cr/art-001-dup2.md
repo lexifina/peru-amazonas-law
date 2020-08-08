@@ -1,0 +1,3 @@
+Artículo 1.-
+“Debido al estado de Emergencia Sanitaria a nivel nacional, decretado por el Gobierno Central mediante Decreto Supremo Nº 008-2020-SA; prorrogado, a partir del 10 de junio del 2020 por el plazo de noventa (90) días calendarios, mediante Decreto Supremo Nº 020-2020-SA; se han implementado una serie de medidas de prevención y control para evitar la propagación del COVID-19 en Puertos, aeropuertos y puestos de entrada terrestres; Centros Educativos; Espacios Públicos y Privados;
+Transporte y Centros Laborales del país; por tanto, durante la vigencia del Estado de Emergencia Sanitaria, las Audiencias Públicas que realice el Gobierno Regional Amazonas, serán virtuales”.
