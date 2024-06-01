@@ -1,0 +1,3 @@
+Artículo 4.- Predominancia y oficialidad de las lenguas indígenas u originarias
+Las lenguas indígenas u originarias predominantes a nivel distrital, provincial y/o regional, de acuerdo con lo establecido en el Mapa Etnolingüístico del perú, son oficiales en dichos ámbitos conforme al Registro Nacional de Lenguas Indígenas u Originarias-RENALIO.
+La no predominancia de otras lenguas indígenas u originarias habladas en el departamento de Amazonas, no excluye la garantía de los derechos lingüísticos de los y las hablantes de estas lenguas, ni la obligación de las entidades de la administración pública de esta jurisdicción de garantizar su ejercicio, así como la prestación de servicios públicos con pertinencia lingüística.

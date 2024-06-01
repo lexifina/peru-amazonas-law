@@ -1,0 +1,2 @@
+Artículo 8.- Sobre la interpretación del Himno Nacional en lenguas indígenas u originarias predominantes
+El Gobierno Regional de Amazonas y las entidades de la administración pública de su jurisdicción, en el marco de sus competencias, de conformidad con el Decreto Supremo N° 006-2022-MC, interpretan el Himno Nacional en todos los actos cívicos, actos militares, eventos o ceremonias oficiales en las lenguas indígenas u originarias predominantes del ámbito regional.
