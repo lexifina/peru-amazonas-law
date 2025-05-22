@@ -1,0 +1,1 @@
+Artículo Cuarto.- PRIORIZAR la comercialización en el mercado local y el consumo local en convenios con organizaciones públicas de la región, resaltando la pertinencia cultural de alimentación de nuestros ciudadanos de Amazonas.

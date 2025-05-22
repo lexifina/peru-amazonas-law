@@ -1,0 +1,1 @@
+Artículo Primero.- APROBAR el “Plan Regional de Acuicultura Amazonas 2024-2034”, como instrumento de gestión que permitirá orientar la política regional para el desarrollo integral de la Acuicultura de una forma planificada y eficiente, la misma que se adjunta y forma parte integrante de la presente ordenanza regional.
