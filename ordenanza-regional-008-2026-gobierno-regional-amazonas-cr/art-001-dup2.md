@@ -1,0 +1,2 @@
+Artículo Primero: APROBAR la propuesta del Cuadro para Asignación de Personal Provisional (CAP) de la Dirección Regional de Salud Amazonas y sus dos (02) Unidades Ejecutoras, U.E 402 - Hospital Regional Virgen de Fátima y U.E 405 - Red de Salud Condorcanqui, conforme a lo aprobado con el Informe Tecnico Nº 000280 -2023-SERVIR-GDSRH de fecha 04 de diciembre de 2025, cuyos Anexos forman parte integrante de la presente Ordenanza Regional.
+DEBE DECIR:
