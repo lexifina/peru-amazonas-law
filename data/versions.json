@@ -1890,6 +1890,342 @@
      "sha256": "0e0b1df0740efd59735a9ee9a48e1289ba4f1dd45167f6698ce1dca1c7598402"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2021-gra-cr",
+   "short": "Ordenanza Regional N° 007-2021-GRA/CR",
+   "title": "Ordenanza Regional N° 007-2021-GRA/CR: Aprueban el informe final del Proceso del Presupuesto Participativo del Año 2022 del Gobierno Regional Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1985927-1",
+   "versions": [
+    {
+     "from": "2021-08-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2tru_lesKlwAvtQJ6jY9MB/*/1985927-1.pdf",
+     "sha256": "c7b9652bd96a65ec51c65f044525c7a73d860a5d149371adfc718d36baaffee0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2021-gra-cr",
+   "short": "Ordenanza Regional N° 001-2021-GRA/CR",
+   "title": "Ordenanza Regional N° 001-2021-GRA/CR: Aprueban la creación del Registro Regional de Personas con Discapacidad del Gobierno Regional Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1927283-1",
+   "versions": [
+    {
+     "from": "2021-02-14",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0KyUKksiKg9B-GuAoyoGsi/*/1927283-1.pdf",
+     "sha256": "75b6826f43dfe5584974f94e68a2240e951585eb02498917368112c07275df07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2020-gra-cr",
+   "short": "Ordenanza Regional N° 013-2020-GRA/CR",
+   "title": "Ordenanza Regional N° 013-2020-GRA/CR: Aprueban creación de la Red de Mujeres Emprendedoras y Empresarias de la Región Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1918089-1",
+   "versions": [
+    {
+     "from": "2021-01-10",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1_rih4E-4Ad9F7w3dFkOnk/*/1918089-1.pdf",
+     "sha256": "01f86696c28e3c5cc395c49d018fe595018e495991de964d70612c5a862ba151"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2020-gra-cr",
+   "short": "Ordenanza Regional N° 006-2020-GRA/CR",
+   "title": "Ordenanza Regional N° 006-2020-GRA/CR: Aprueban la modificación del Reglamento Interno del Consejo Regional de Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1868698-1",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 13,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EgO-xWl346xAiymfQnsqGZ/*/1868698-1.pdf",
+     "sha256": "afb081ed33fc743df8806718a8923ad2b4f02e9d7edc229ad015dbdaa320db66"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-456-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 456 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 456 GOBIERNO REGIONAL AMAZONAS/CR: Modifican la Ordenanza N° 009-2003-CR/RA, que declaró el 21 de noviembre como fecha oficial de Aniversario de la Región Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1853964-1",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3a7PKa9pKeE9YwIie9CmyR/*/1853964-1.pdf",
+     "sha256": "f72fcdddab5d184e50fcd484e75eaf09808ca3b9c62948b59cd57726fd9987ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2020-gra-cr",
+   "short": "Ordenanza Regional N° 001-2020-GRA/CR",
+   "title": "Ordenanza Regional N° 001-2020-GRA/CR: Aprueban constitución de la \"Mancomunidad Regional Amazónica\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1852128-1",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2fSvKJLN44q98NAG-RX-JU/*/1852128-1.pdf",
+     "sha256": "7f6f3193f1b67caa582f33fbe99a1a7bba314e2dfc92525278a02fdac8dd9981"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-454-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 454 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 454 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Dirección Regional de Comercio Exterior y Turismo de Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1840368-1",
+   "versions": [
+    {
+     "from": "2019-12-29",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8LGqzrwA4JpAQC1P35YpXV/*/1840368-1.pdf",
+     "sha256": "b98e08aa57442cbcb8e93b7ca33281fd9fb5fa41332a24361e5758420e8ed586"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-452-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 452-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 452-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento Interno del Consejo Regional de Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1830212-1",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8WPkXEBraNiACCxlyxG9BH/*/1830212-2.pdf",
+     "sha256": "6ebe210fabab4036e86f8486c03a860a14797fb71875045a79cfcbb35a040b18"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-450-2019-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 450-2019 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 450-2019 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la creación de la Unidad de Gestión Educativa Local Intercultural Bilingüe Río Santiago",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1825429-1",
+   "versions": [
+    {
+     "from": "2019-11-14",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9ur-QjjcqYxB7jPE7xeHuo/*/1825429-2.pdf",
+     "sha256": "f5eb75bbdfe3dbc70e3b52df6cfaec3dac2dc6fb796a36cede1ac964a4d5401d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-441-gobierno-regional-amamzonas-cr",
+   "short": "Ordenanza Regional N° 441-GOBIERNO REGIONAL AMAMZONAS/CR",
+   "title": "Ordenanza Regional N° 441-GOBIERNO REGIONAL AMAMZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Red de Salud Condorcanqui",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1814948-1",
+   "versions": [
+    {
+     "from": "2019-10-12",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5sCTOuq9qyH8H9SyPeFnm6/*/1814948-2.pdf",
+     "sha256": "4aae3ff1d66b1a498a0b5760563a86d821fe98626f9503ece1fc322afa5df2d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-423-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 423-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 423-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban creación del Consejo Regional de la Micro y Pequeña Empresa de la Región Amazonas (COREMYPE - AMAZONAS)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1712830-1",
+   "versions": [
+    {
+     "from": "2018-11-18",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4oiN497h4tOB-ArM0lLxKI/*/1712830-1.pdf",
+     "sha256": "ea9d210084deed959a0575a02b906ef1a7bc7fc6f4007ebadad0f9e60977618f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-419-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 419 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 419 GOBIERNO REGIONAL AMAZONAS/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1680548-1",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/45FGNEWm4U794N9rSKSR2o/*/1680548-1.pdf",
+     "sha256": "56a0d768f23c9feb803e678baf23eab1dfb50d3acceb755019e301b36daf1e6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-418-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 418 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 418 GOBIERNO REGIONAL AMAZONAS/CR: Reconforman el Consejo Regional de Salud de la Región Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1672274-1",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EBr1WyAQ4sJ8_36Ew4v-s0/*/1672274-1.pdf",
+     "sha256": "5002132057e8b7f8fb6abe6067f33006112fc11f52fe55b80eacc698a932b063"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-410-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 410 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 410 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el \"Plan Regional para Combatir la Violencia hacia la Mujer e Integrantes del Grupo Familias en la Región Amazonas 2017 - 2022\" y constituyen el Equipo Técnico Regional como instancia de Concertación Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1637205-1",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ERY-bruoqzYAkcAQhRuMTb/*/1637205-1.pdf",
+     "sha256": "4456b24fffc89b59b43dcd7f63d3071228413d9c8c2a229de46b40123730d207"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-406-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 406-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 406-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban “Plan Regional de Seguridad Ciudadana 2017 Amazonas”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1609291-1",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 12,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DvrJYFs4aaOBiDrEc_m5XL/*/1609291-1.pdf",
+     "sha256": "fa026d5df966df2eb4af34b9f9d308cd93af2bf00409eb992cf4cf30e17c4e9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-369-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 369 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 369 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el \"Reglamento que Regula el Proceso del Presupuesto Participativo Multianual\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1241848-1",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8ZFHdldDqC5BA5PWg8vPZN/*/1241848-1.pdf",
+     "sha256": "0caf6fbe47f41cf574d8e86a1146d1932909c0591a3fca47e61499d5c924255e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-365-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 365 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 365 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la Agenda Ambiental Regional 2015 - 2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1224732-1",
+   "versions": [
+    {
+     "from": "2015-04-18",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7TEWF-yhKT28Vkz7LKQAMG/*/1224732-1.pdf",
+     "sha256": "c470a00c78c599af7d8613cf9a578d3a3f6bcddd6e4ea134a8ffca9b7396d723"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-366-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 366 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 366 GOBIERNO REGIONAL AMAZONAS/CR: Actualizan el Sistema Regional de Gestión Ambiental",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1224734-1",
+   "versions": [
+    {
+     "from": "2015-04-18",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DEtLZQrLKEJBhiQ_Km0j0c/*/1224734-1.pdf",
+     "sha256": "8e9733d82d0b0a6a64562a2e543f3fa3ec6a03afe20fb4db4c46c151e9cf8a3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-337-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 337-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 337-GOBIERNO REGIONAL AMAZONAS/CR: Crean la Comisión Regional Anticorrupción de Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1032045-1",
+   "versions": [
+    {
+     "from": "2013-12-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0l9ziFGw4gv9d9rYX6LM55/*/1032045-1.pdf",
+     "sha256": "f94aa1b67330ec49e18aac36bc1bff2c8e0ce21457bd75467bcf54c963f6be33"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-338-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 338 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 338 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Red de Salud Bagua, Red de Salud Utcubamba, Hospital Santiago Apóstol de Utcubamba, Red de Salud Chachapoyas, Hospital María Auxiliadora de Rodríguez de Mendoza y Red de Sal",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1028884-1",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2-G25rHQqVXAWuVJWsIydK/*/1028884-1.pdf",
+     "sha256": "2eba61335f331262f3daa6c119de91eb89f2b839efaaf341355551b7c6b62d1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-336-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 336-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 336-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Dirección Regional de Salud Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1025285-1",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0YlxViJFKD0A9syJ0Umr3j/*/1025285-1.pdf",
+     "sha256": "d2d213613d1c82eb99e0323103f1a4cd73637182fc519ead56aec0ef5a4d625f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-334-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 334-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 334-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Cuadro para Asignación de Personal - CAP de la Sede del Gobierno Regional Amazonas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1004275-1",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CRjN4mP1a_aBZhX_s-Z9ul/*/1004275-1.pdf",
+     "sha256": "4693e3bf1778e6dd542751c53bd83b5bbd4088a6c09feb59129506d361407004"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-335-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 335-GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 335-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1004274-1",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/67IlyWDLKVFBcihHHO2CYy/*/1004274-1.pdf",
+     "sha256": "ca7b7144fed97fdf97af54746506a07cddbc6f3888e1a02452eec3c4f57deff5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-333-gobierno-regional-amazonas-cr",
+   "short": "Ordenanza Regional N° 333 GOBIERNO REGIONAL AMAZONAS/CR",
+   "title": "Ordenanza Regional N° 333 GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones aplicables al servicio de transporte de pasajeros en vehículos de la categoría M1, para empresas constituidas antes de la promulgación del D.S. N° 017-2009-MTC.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/990002-1",
+   "versions": [
+    {
+     "from": "2013-09-21",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7h0FwhZqK6aB0GSvMKFX6K/*/990002-1.pdf",
+     "sha256": "28efda5f01e0c65daccb9d4649e8717f123502055a5b9cb4ef719e34560646de"
+    }
+   ]
   }
  ]
 }

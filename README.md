@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-135 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+159 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -147,6 +147,30 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-326-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 326 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones (ROF) y Cuadro para Asignación de Personal (CAP) del Go… | in force 9 June 2013 |
 | `ordenanza-regional-321-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 321-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la modificación de documentos de gestión de dependencias de la Dirección Regional de Salud Ama… | in force 7 June 2013 |
 | `ordenanza-regional-001-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 001 GOBIERNO REGIONAL  AMAZONAS/CR: Aprueban nuevo Reglamento Interno del Consejo Regional del Gobierno Regional de Amazonas | in force 18 April 2013 |
+| `ordenanza-regional-007-2021-gra-cr/` | Ordenanza Regional N° 007-2021-GRA/CR: Aprueban el informe final del Proceso del Presupuesto Participativo del Año 2022 del Gobierno Regional Amazonas | in force 29 August 2021 |
+| `ordenanza-regional-001-2021-gra-cr/` | Ordenanza Regional N° 001-2021-GRA/CR: Aprueban la creación del Registro Regional de Personas con Discapacidad del Gobierno Regional Amazonas | in force 14 February 2021 |
+| `ordenanza-regional-013-2020-gra-cr/` | Ordenanza Regional N° 013-2020-GRA/CR: Aprueban creación de la Red de Mujeres Emprendedoras y Empresarias de la Región Amazonas | in force 10 January 2021 |
+| `ordenanza-regional-006-2020-gra-cr/` | Ordenanza Regional N° 006-2020-GRA/CR: Aprueban la modificación del Reglamento Interno del Consejo Regional de Amazonas | in force 26 June 2020 |
+| `ordenanza-regional-456-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 456 GOBIERNO REGIONAL AMAZONAS/CR: Modifican la Ordenanza N° 009-2003-CR/RA, que declaró el 21 de noviembre como fecha oficial de Aniversa… | in force 13 February 2020 |
+| `ordenanza-regional-001-2020-gra-cr/` | Ordenanza Regional N° 001-2020-GRA/CR: Aprueban constitución de la "Mancomunidad Regional Amazónica" | in force 6 February 2020 |
+| `ordenanza-regional-454-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 454 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Dirección Regional de Comerci… | in force 29 December 2019 |
+| `ordenanza-regional-452-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 452-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento Interno del Consejo Regional de Amazonas | in force 28 November 2019 |
+| `ordenanza-regional-450-2019-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 450-2019 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la creación de la Unidad de Gestión Educativa Local Intercultural Bilingüe Río Santiago | in force 14 November 2019 |
+| `ordenanza-regional-441-gobierno-regional-amamzonas-cr/` | Ordenanza Regional N° 441-GOBIERNO REGIONAL AMAMZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Red de Salud Condorcanqui | in force 12 October 2019 |
+| `ordenanza-regional-423-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 423-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban creación del Consejo Regional de la Micro y Pequeña Empresa de la Región Amazonas (COREMYPE - … | in force 18 November 2018 |
+| `ordenanza-regional-419-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 419 GOBIERNO REGIONAL AMAZONAS/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional Amazonas | in force 17 August 2018 |
+| `ordenanza-regional-418-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 418 GOBIERNO REGIONAL AMAZONAS/CR: Reconforman el Consejo Regional de Salud de la Región Amazonas | in force 23 July 2018 |
+| `ordenanza-regional-410-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 410 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Plan Regional para Combatir la Violencia hacia la Mujer e Integrantes del Grupo Familias e… | in force 19 April 2018 |
+| `ordenanza-regional-406-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 406-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban “Plan Regional de Seguridad Ciudadana 2017 Amazonas” | in force 26 January 2018 |
+| `ordenanza-regional-369-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 369 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Reglamento que Regula el Proceso del Presupuesto Participativo Multianual" | in force 28 May 2015 |
+| `ordenanza-regional-365-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 365 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la Agenda Ambiental Regional 2015 - 2016 | in force 18 April 2015 |
+| `ordenanza-regional-366-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 366 GOBIERNO REGIONAL AMAZONAS/CR: Actualizan el Sistema Regional de Gestión Ambiental | in force 18 April 2015 |
+| `ordenanza-regional-337-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 337-GOBIERNO REGIONAL AMAZONAS/CR: Crean la Comisión Regional Anticorrupción de Amazonas | in force 29 December 2013 |
+| `ordenanza-regional-338-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 338 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Red de Salud Bagua, Red de Salud … | in force 20 December 2013 |
+| `ordenanza-regional-336-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 336-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Dirección Regional de Salud Amazo… | in force 12 December 2013 |
+| `ordenanza-regional-334-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 334-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Cuadro para Asignación de Personal - CAP … | in force 26 October 2013 |
+| `ordenanza-regional-335-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 335-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción de… | in force 26 October 2013 |
+| `ordenanza-regional-333-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 333 GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones aplicables al servicio de transporte de pasajeros en vehículos de la categoría… | in force 21 September 2013 |
 
 ## Source
 

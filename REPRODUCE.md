@@ -149,20 +149,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-326-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 326 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones (ROF) y Cuadro para Asignación de Personal (CAP) del Gobierno Regional Amazonas | 1 | 2013-06-09 to 2013-06-09 |
 | `ordenanza-regional-321-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 321-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la modificación de documentos de gestión de dependencias de la Dirección Regional de Salud Amazonas | 1 | 2013-06-07 to 2013-06-07 |
 | `ordenanza-regional-001-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 001 GOBIERNO REGIONAL  AMAZONAS/CR: Aprueban nuevo Reglamento Interno del Consejo Regional del Gobierno Regional de Amazonas | 1 | 2013-04-18 to 2013-04-18 |
+| `ordenanza-regional-007-2021-gra-cr` | Ordenanza Regional N° 007-2021-GRA/CR: Aprueban el informe final del Proceso del Presupuesto Participativo del Año 2022 del Gobierno Regional Amazonas | 1 | 2021-08-29 to 2021-08-29 |
+| `ordenanza-regional-001-2021-gra-cr` | Ordenanza Regional N° 001-2021-GRA/CR: Aprueban la creación del Registro Regional de Personas con Discapacidad del Gobierno Regional Amazonas | 1 | 2021-02-14 to 2021-02-14 |
+| `ordenanza-regional-013-2020-gra-cr` | Ordenanza Regional N° 013-2020-GRA/CR: Aprueban creación de la Red de Mujeres Emprendedoras y Empresarias de la Región Amazonas | 1 | 2021-01-10 to 2021-01-10 |
+| `ordenanza-regional-006-2020-gra-cr` | Ordenanza Regional N° 006-2020-GRA/CR: Aprueban la modificación del Reglamento Interno del Consejo Regional de Amazonas | 1 | 2020-06-26 to 2020-06-26 |
+| `ordenanza-regional-456-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 456 GOBIERNO REGIONAL AMAZONAS/CR: Modifican la Ordenanza N° 009-2003-CR/RA, que declaró el 21 de noviembre como fecha oficial de Aniversario de la Región Amazonas | 1 | 2020-02-13 to 2020-02-13 |
+| `ordenanza-regional-001-2020-gra-cr` | Ordenanza Regional N° 001-2020-GRA/CR: Aprueban constitución de la "Mancomunidad Regional Amazónica" | 1 | 2020-02-06 to 2020-02-06 |
+| `ordenanza-regional-454-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 454 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Dirección Regional de Comercio Exterior y Turismo de Amazonas | 1 | 2019-12-29 to 2019-12-29 |
+| `ordenanza-regional-452-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 452-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento Interno del Consejo Regional de Amazonas | 1 | 2019-11-28 to 2019-11-28 |
+| `ordenanza-regional-450-2019-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 450-2019 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la creación de la Unidad de Gestión Educativa Local Intercultural Bilingüe Río Santiago | 1 | 2019-11-14 to 2019-11-14 |
+| `ordenanza-regional-441-gobierno-regional-amamzonas-cr` | Ordenanza Regional N° 441-GOBIERNO REGIONAL AMAMZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) modificado de la Red de Salud Condorcanqui | 1 | 2019-10-12 to 2019-10-12 |
+| `ordenanza-regional-423-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 423-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban creación del Consejo Regional de la Micro y Pequeña Empresa de la Región Amazonas (COREMYPE - AMAZONAS) | 1 | 2018-11-18 to 2018-11-18 |
+| `ordenanza-regional-419-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 419 GOBIERNO REGIONAL AMAZONAS/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional Amazonas | 1 | 2018-08-17 to 2018-08-17 |
+| `ordenanza-regional-418-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 418 GOBIERNO REGIONAL AMAZONAS/CR: Reconforman el Consejo Regional de Salud de la Región Amazonas | 1 | 2018-07-23 to 2018-07-23 |
+| `ordenanza-regional-410-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 410 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Plan Regional para Combatir la Violencia hacia la Mujer e Integrantes del Grupo Familias en la Región Amazonas 2017 - 2022" y constituyen el Equipo Técnico Regional como instancia de Concertación Regional | 1 | 2018-04-19 to 2018-04-19 |
+| `ordenanza-regional-406-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 406-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban “Plan Regional de Seguridad Ciudadana 2017 Amazonas” | 1 | 2018-01-26 to 2018-01-26 |
+| `ordenanza-regional-369-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 369 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Reglamento que Regula el Proceso del Presupuesto Participativo Multianual" | 1 | 2015-05-28 to 2015-05-28 |
+| `ordenanza-regional-365-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 365 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la Agenda Ambiental Regional 2015 - 2016 | 1 | 2015-04-18 to 2015-04-18 |
+| `ordenanza-regional-366-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 366 GOBIERNO REGIONAL AMAZONAS/CR: Actualizan el Sistema Regional de Gestión Ambiental | 1 | 2015-04-18 to 2015-04-18 |
+| `ordenanza-regional-337-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 337-GOBIERNO REGIONAL AMAZONAS/CR: Crean la Comisión Regional Anticorrupción de Amazonas | 1 | 2013-12-29 to 2013-12-29 |
+| `ordenanza-regional-338-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 338 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Red de Salud Bagua, Red de Salud Utcubamba, Hospital Santiago Apóstol de Utcubamba, Red de Salud Chachapoyas, Hospital María Auxiliadora de Rodríguez de Mendoza y Red de Sal | 1 | 2013-12-20 to 2013-12-20 |
+| `ordenanza-regional-336-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 336-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP modificado de la Dirección Regional de Salud Amazonas | 1 | 2013-12-12 to 2013-12-12 |
+| `ordenanza-regional-334-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 334-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Cuadro para Asignación de Personal - CAP de la Sede del Gobierno Regional Amazonas | 1 | 2013-10-26 to 2013-10-26 |
+| `ordenanza-regional-335-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 335-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2013-10-26 to 2013-10-26 |
+| `ordenanza-regional-333-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 333 GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones aplicables al servicio de transporte de pasajeros en vehículos de la categoría M1, para empresas constituidas antes de la promulgación del D.S. N° 017-2009-MTC. | 1 | 2013-09-21 to 2013-09-21 |
 
-The build made 135 commits:
+The build made 159 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 135 | first version of an act |
+| 159 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 135 laws in the record.
-- 270 tags.
+- 159 laws in the record.
+- 318 tags.
 
 ## Dates
 
@@ -174,13 +198,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4acf7e407e8b6f719cc597aadbdd67e6e88ef809149ecb62857cbcd8dbf626a2` (1804717 bytes).
+- Corpus: sha256 `e291795696dd25c633705a591867db8fea0abab6badb944cf25abc7cecf52716` (2093126 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-135 versions of 135 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

@@ -174,6 +174,35 @@
     "ordenanza-regional-367-gobierno-regional-amazonas-cr"
    ],
    "sha256": "75d637ca8307d2e51fafdcf3fc5817458960db4d76349bfd00687e663f60f5e4"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2020-gra-cr",
+    "ordenanza-regional-001-2021-gra-cr",
+    "ordenanza-regional-006-2020-gra-cr",
+    "ordenanza-regional-007-2021-gra-cr",
+    "ordenanza-regional-013-2020-gra-cr",
+    "ordenanza-regional-333-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-334-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-335-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-336-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-337-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-338-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-365-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-366-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-369-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-406-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-410-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-418-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-419-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-423-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-441-gobierno-regional-amamzonas-cr",
+    "ordenanza-regional-450-2019-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-452-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-454-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-456-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "1b0f56a13363a4c25785e9911932f41eb888a768603ecc1f9a1f934ce3894cae"
   }
  },
  "schema": 1
