@@ -1,0 +1,180 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-001-2026-gra-cr",
+    "ordenanza-regional-002-2022-gra-cr",
+    "ordenanza-regional-002-2023-gra-cr",
+    "ordenanza-regional-002-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-002-2026-gra-cr",
+    "ordenanza-regional-003-2022-gra-cr",
+    "ordenanza-regional-003-2023-gra-cr",
+    "ordenanza-regional-003-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-003-2026-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-004-2022-gra-cr",
+    "ordenanza-regional-004-2023-gra-cr",
+    "ordenanza-regional-004-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-005-2022-gra-cr",
+    "ordenanza-regional-005-2024-gra-cr",
+    "ordenanza-regional-006-2022-gra-cr",
+    "ordenanza-regional-006-2024-gra-cr",
+    "ordenanza-regional-006-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-0062026-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-007-2022-gra-cr",
+    "ordenanza-regional-007-2024-gra-cr",
+    "ordenanza-regional-007-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-008-2022-gra-cr",
+    "ordenanza-regional-008-2026-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-009-2022-gra-cr",
+    "ordenanza-regional-009-2024-gra-cr",
+    "ordenanza-regional-009-2026-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-010-2022-gra-cr",
+    "ordenanza-regional-011-2024-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-012-2024-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-012-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-013-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-015-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-019-2025-gra-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "e849693c9e2687ff3dc57c8c9d209936a15ab25d9b4c71f434493150f1e23c73"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-002-2024-gra-cr",
+    "ordenanza-regional-005-2023-gra-cr",
+    "ordenanza-regional-007-2026-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-008-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-011-2025-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-014-2025-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "fa737418cc75cda9619d19b773735e108f8c6dc729255c64fafddb060055775e"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2022-gra-cr",
+    "ordenanza-regional-002-2020-gra-cr",
+    "ordenanza-regional-002-2021-gra-cr",
+    "ordenanza-regional-003-2020-gra-cr",
+    "ordenanza-regional-003-2021-gra-cr",
+    "ordenanza-regional-004-2020-gra-cr",
+    "ordenanza-regional-004-2021-gra-cr",
+    "ordenanza-regional-005-2020-gra-cr",
+    "ordenanza-regional-005-2021-gra-cr",
+    "ordenanza-regional-007-2020-gra-cr",
+    "ordenanza-regional-008-2021-gra-cr",
+    "ordenanza-regional-009-2020-g-r-a-cr",
+    "ordenanza-regional-010-2020-gra-cr",
+    "ordenanza-regional-011-2020-gra-cr",
+    "ordenanza-regional-012-2020-gra-cr",
+    "ordenanza-regional-014-2020-gra-cr",
+    "ordenanza-regional-015-2020-gra-cr",
+    "ordenanza-regional-428-gobierno-reional-amazonas-cr",
+    "ordenanza-regional-432-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-433-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-434-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-435-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-438-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-439-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-440-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-442-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-444-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-445-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-446-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-447-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-448-2019-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-449-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-451-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-453-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-457-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "2638ad99b2b0afb22fdf131aeecd5e2d9d759a72741281101ae25fc8707df56f"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-003-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-378-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-381-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-382-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-383-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-384-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-385-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-386-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-387-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-388-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-390-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-391-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-392-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-393-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-396-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-397-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-398-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-399-gobierno-regional-amazonas-or",
+    "ordenanza-regional-400-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-401-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-403-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-404-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-405-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-407-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-408-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-411-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-412-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-413-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-414-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-416-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-417-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-420-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-422-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-424-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-426-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-427-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-429-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "771c1d92d90d674bfe4d3f775c6d423ff1d313bf8494075a0a6d182d2fb32cb2"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-368-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-371-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-372-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-374-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-375-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-377-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-379-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "90386e6c35a5d2997215f64f68c0872b399f03a7538ab13df0cbef446a3c6937"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-169-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "d34ccfee53bcd36518b7b8e4dd4a8b8017adbe3df4e171a9698aede00d907e9b"
+  },
+  "32-anteriores-05.json": {
+   "acts": [
+    "ordenanza-regional-243-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-247-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-251-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-257-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-267-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-311-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "21b19a03fb6eba2fa4c602e5a7bad86edf38462bed8b1cd67f577fff4bf63f1f"
+  },
+  "32-anteriores-06.json": {
+   "acts": [
+    "ordenanza-regional-001-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-301-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-302-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-321-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-324-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-326-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-328-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-367-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "75d637ca8307d2e51fafdcf3fc5817458960db4d76349bfd00687e663f60f5e4"
+  }
+ },
+ "schema": 1
+}
