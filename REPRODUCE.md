@@ -173,20 +173,69 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-334-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 334-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Cuadro para Asignación de Personal - CAP de la Sede del Gobierno Regional Amazonas | 1 | 2013-10-26 to 2013-10-26 |
 | `ordenanza-regional-335-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 335-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2013-10-26 to 2013-10-26 |
 | `ordenanza-regional-333-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 333 GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones aplicables al servicio de transporte de pasajeros en vehículos de la categoría M1, para empresas constituidas antes de la promulgación del D.S. N° 017-2009-MTC. | 1 | 2013-09-21 to 2013-09-21 |
+| `ordenanza-regional-332-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 332 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Salud Amazonas | 1 | 2013-07-27 to 2013-07-27 |
+| `ordenanza-regional-331-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 331 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la creación de la "Oficina Regional de Atención a la Persona con Discapacidad -OREDIS" | 1 | 2013-07-27 to 2013-07-27 |
+| `ordenanza-regional-330-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 330 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Plan Regional de la Formalización de la Pequeña Minería y Minería Informal en la Región Amazonas | 1 | 2013-07-27 to 2013-07-27 |
+| `ordenanza-regional-329-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 329-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora 403, Hospital de Apoyo "Gustavo Lanatta Lujan" | 1 | 2013-07-08 to 2013-07-08 |
+| `ordenanza-regional-327-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 327 GOBIERNO REGIONAL AMAZONAS/CR: Crean la Autoridad Regional Ambiental Amazonas - ARA Amazonas | 1 | 2013-06-09 to 2013-06-09 |
+| `ordenanza-regional-323-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 323-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la Creación de la Unidad Ejecutora PROAMAZONAS como organismo desconcentrado del Gobierno Regional de Amazonas y Reglamento de Organización y Funciones | 1 | 2013-06-07 to 2013-06-07 |
+| `ordenanza-regional-322-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 322-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el nombre de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca, como "Mancomunidad Regional del Qhapaq Ñan Nor Amazónico" | 1 | 2013-05-31 to 2013-05-31 |
+| `ordenanza-regional-325-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 325-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Cuadro para Asignación de Personal - CAP de la Dirección Regional Agraria de Amazonas | 1 | 2013-05-31 to 2013-05-31 |
+| `ordenanza-regional-002-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 002 GOBIERNO REGIONAL AMAZONAS/CR: Reconocen e implementan el derecho a la Consulta Previa e Informada a los Pueblos Indígenas en el ámbito de la jurisdicción y competencias del Gobierno Regional de Amazonas | 1 | 2013-05-19 to 2013-05-19 |
+| `ordenanza-regional-320-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 320 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban flujograma del trámite para el registro de Hechos Vitales del Nacido Vivo y de Defunción; y la expedición del Certificado de Nacido Vivo para la obtención del DNI en la Región Amazonas | 1 | 2013-04-15 to 2013-04-15 |
+| `ordenanza-regional-319-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 319-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Texto Único de Procedimientos Administrativos - TUPA de la Dirección Regional de Energía y Minas | 1 | 2013-03-29 to 2013-03-29 |
+| `ordenanza-regional-318-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 318 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal de la UGEL Bagua, de la provincia de Bagua del Gobierno Regional Amazonas | 1 | 2013-02-09 to 2013-02-09 |
+| `ordenanza-regional-317-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 317 GOBIERNO REGIONAL-AMAZONAS/CR: Aprueban el Texto Único de Procedimientos Administrativos de la Dirección del Archivo Regional Amazonas | 1 | 2013-01-24 to 2013-01-24 |
+| `ordenanza-regional-316-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 316 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal y Reglamento de Organización y Funciones de la Dirección Regional de Energía y Minas | 1 | 2013-01-20 to 2013-01-20 |
+| `ordenanza-regional-315-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 315 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal - CAP reformulado de diversas dependencias del Sector Salud del Gobierno Regional Amazonas | 1 | 2013-01-20 to 2013-01-20 |
+| `ordenanza-regional-314-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 314-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos de la Sede del Gobierno Regional Amazonas | 1 | 2012-11-13 to 2012-11-13 |
+| `ordenanza-regional-313-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 313- GOBIERNO REGIONAL AMAZONAS/CR: Aprueban modificación del Estatuto de la Mancomunidad Regional Amazonas - San Martín - La Libertad y Cajamarca | 1 | 2012-10-12 to 2012-10-12 |
+| `ordenanza-regional-312-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 312 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Plan Estratégico Institucional 2011-2016 | 1 | 2012-09-14 to 2012-09-14 |
+| `ordenanza-regional-310-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 310-GOBIERNO REGIONAL AMAZONAS/CR: Declaran de interés público regional la protección y conservación del Bosque de Palmeras del Género Ceroxylon en la Comunidad Campesina de Taulía - Molinopampa | 1 | 2012-07-23 to 2012-07-23 |
+| `ordenanza-regional-309-2012-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 309-2012-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal y Reglamento de Organización y Funciones de la Gerencia Sub Regional de Utcubamba del Gobierno Regional Amazonas | 1 | 2012-07-23 to 2012-07-23 |
+| `ordenanza-regional-308-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 308-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento que Regula el Proceso del Presupuesto Participativo del Gobierno Regional Amazonas para el Año Fiscal 2013 | 1 | 2012-06-21 to 2012-06-21 |
+| `ordenanza-regional-307-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 307 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones (ROF) de la Sede del Gobierno Regional Amazonas | 1 | 2012-06-07 to 2012-06-07 |
+| `ordenanza-regional-303-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 303-GOBIERNO REGIONAL AMAZONAS/CR: Dictan disposiciones a aplicarse en concurso públicos para contratación de personal, nombramiento y otros del Gobierno Regional, en etapas que requieran opinión o puntuación subjetiva | 1 | 2012-05-06 to 2012-05-06 |
+| `ordenanza-regional-304-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 304-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal (CAP) actualizado de la Unidad de Gestión Educativa Local UGEL - Utcubamba | 1 | 2012-05-05 to 2012-05-05 |
+| `ordenanza-regional-305-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 305-GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones aplicacables en los procesos de selección para la ejecución de obras con recursos públicos, para la adquisición de bienes y contratación de servicios y en las exoneraciones de procesos de selección | 1 | 2012-05-05 to 2012-05-05 |
+| `ordenanza-regional-299-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 299 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Cuadro para Asignación de Personal (CAP) reformulado del Hospital Regional "Vírgen de Fátima" | 1 | 2012-01-13 to 2012-01-13 |
+| `ordenanza-regional-298-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 298- GOBIERNO REGIONAL AMAZONAS/CR: Declaran voluntad del Gobierno Regional de formalizar la constitución de la "Mancomunidad Regional de Amazonas, San Martín, La Libertad y Cajamarca" | 1 | 2011-12-23 to 2011-12-23 |
+| `ordenanza-regional-296-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 296-GOBIERNO REGIONAL AMAZONAS/CR: Disponen la creación y funcionamiento de la "Mesa Regional por la Participación y Desarrollo Inclusivo de las personas con discapacidad en la Región Amazonas" | 1 | 2011-11-12 to 2011-11-12 |
+| `ordenanza-regional-297-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 297 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento que Norma la Realización de las Audiencias Públicas 2011 - 2014 | 1 | 2011-10-17 to 2011-10-17 |
+| `ordenanza-regional-295-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 295-GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones que deben adoptar las instituciones educativas públicas y privadas del ámbito regional a fin de evitar los efectos negativos de la radiación solar | 1 | 2011-09-24 to 2011-09-24 |
+| `ordenanza-regional-289-amazonas-regional-amazonas-cr` | Ordenanza Regional N° 289 AMAZONAS REGIONAL AMAZONAS/CR: Aprueban constitución del Consejo Regional de los Niños, Niñas y Adolescentes de la Región Amazonas - COREDENNA | 1 | 2011-09-17 to 2011-09-17 |
+| `ordenanza-regional-291-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 291-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la Estrategia Regional de Seguridad Alimentaria de la Región Amazonas, denominada Tajimat Pujut - Buen Vivir 2011-2021 | 1 | 2011-09-17 to 2011-09-17 |
+| `ordenanza-regional-294-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 294 - GOBIERNO REGIONAL AMAZONAS/CR: Modifican la Ordenanza Regional N° 282-GOBIERNO REGIONAL AMAZONAS/CR, sobre aprobación de Lineamientos de Política Regional y Plan Regional de Formación Profesional del Gobierno Regional Amazonas | 1 | 2011-09-17 to 2011-09-17 |
+| `ordenanza-regional-273-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 273-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal (CAP) reformulado del Hospital Regional "Virgen de Fátima" | 1 | 2011-09-09 to 2011-09-09 |
+| `ordenanza-regional-293-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 293-GOBIERNO REGIONAL AMAZONAS/CR: Institucionalizan la Agenda Social en el marco del "Compromiso por el Desarrollo Regional de Amazonas 2011-2021" | 1 | 2011-09-09 to 2011-09-09 |
+| `ordenanza-regional-292-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 292 - GOBIERNO REGIONAL AMAZONAS/CR: Declaran de interés público la conservación y protección de las Cuencas Colectoras de las cataratas de Gocta, Yumbilla y La Chinata, de la provincia de Bongará, y las cabeceras de las mismas | 1 | 2011-08-27 to 2011-08-27 |
+| `ordenanza-regional-287-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 287 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadros para Asignación de Personal (CAPs) reformulados de las Redes de Salud de Bagua, Utcubamba y Condorcanqui, y de los Hospitales "Gustavo Lanatta Luján" y "Santiago Apóstol" | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-288-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 288 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamentos de Organización y Funciones reformulados de diversas redes de salud y hospitales del Sector Salud del Gobierno Regional | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-285-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 285-GOBIERNO REGIONAL AMAZONAS/CR: Restituyen la vigencia del Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal de la Sede del Gobierno Regional Amazonas, aprobados por Ordenanza N° 219-2008-GOBIERNO REGIONAL AMAZONAS/CR | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-280-gobierno-regional-amazones-cr` | Ordenanza Regional N° 280-GOBIERNO REGIONAL AMAZONES/CR: Aprueban Reglamento de Organización y Funciones y Cuadro para Asignación de Personal de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-284-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 284-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Plan Regional de Desarrollo de Capacidades 2010-2012 del Gobierno Regional de Amazonas y crean la Plataforma Regional Interinstitucional para el Desarrollo de Capacidades - PRIDECA | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-283-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 283-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban "Plan Vial Departamental Participativo Amazonas 2010 - 2020" | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-282-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 282-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Lineamientos de Política Regional de Formación Profesional del Gobierno Regional de Amazonas | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-281-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 281-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban incorporación del Gobierno Regional de Cajamarca a la Mancomunidad Regional Amazonas - San Martín - La Libertad y modifican la Ordenanza Regional N° 249-GOBIERNO REGIONAL AMAZONAS/CR | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-286-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 286-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Reglamento que regula el Proceso del Presupuesto Participativo del Gobierno Regional Amazonas para el Año Fiscal 2012" | 1 | 2011-04-15 to 2011-04-15 |
+| `ordenanza-regional-275-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 275 GOBIERNO REGIONAL AMAZONAS/CR: Establecen disposiciones relativas a la prevención y eliminación de la discriminación en todas sus formas en la Región Amazonas | 1 | 2011-04-02 to 2011-04-02 |
+| `ordenanza-regional-276-gobierno-regoinal-amazonas-cr` | Ordenanza Regional N° 276 GOBIERNO REGOINAL AMAZONAS/CR: Oficializan Instituciones Educativas ubicadas en las Comunidades Awajún y Wampís de la Región Amazonas con la denominación de Instituciones Educativas Interculturales Bilingües | 1 | 2011-03-07 to 2011-03-07 |
+| `ordenanza-regional-277-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 277 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal de diversas dependencias del Sector Salud del Gobierno Regional Amazonas | 1 | 2011-02-27 to 2011-02-27 |
+| `ordenanza-regional-279-gobierno-regional-amazonas-cr` | Ordenanza Regional N° 279-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el TUPA de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno Regional de Amazonas | 1 | 2011-02-17 to 2011-02-17 |
 
-The build made 159 commits:
+The build made 208 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 159 | first version of an act |
+| 208 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 159 laws in the record.
-- 318 tags.
+- 208 laws in the record.
+- 416 tags.
 
 ## Dates
 
@@ -198,7 +247,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e291795696dd25c633705a591867db8fea0abab6badb944cf25abc7cecf52716` (2093126 bytes).
+- Corpus: sha256 `e345743544bef476ffe91478bd315bf2cea077fe5b92e65158940154419bf643` (2620992 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
