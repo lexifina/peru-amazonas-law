@@ -1,0 +1,11 @@
+{
+  "path": "pe-ama",
+  "code": "PE-AMA",
+  "name": "Amazonas",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-amazonas-law",
+  "build": "built: 135 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
