@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-208 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+238 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -220,6 +220,36 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-276-gobierno-regoinal-amazonas-cr/` | Ordenanza Regional N° 276 GOBIERNO REGOINAL AMAZONAS/CR: Oficializan Instituciones Educativas ubicadas en las Comunidades Awajún y Wampís de la Región Amazonas … | in force 7 March 2011 |
 | `ordenanza-regional-277-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 277 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal de diversas dependencias del Sector Salud del Gobierno Regi… | in force 27 February 2011 |
 | `ordenanza-regional-279-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 279-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el TUPA de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno Regional de Am… | in force 17 February 2011 |
+| `ordenanza-regional-272-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 272  GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Reglamento de Organización y Funciones (ROF) reformulado de la Dirección Regional Agraria | in force 15 November 2010 |
+| `ordenanza-regional-271-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 271 GOBIERNO REGIONAL AMAZONAS/CR: Disponen la constitución del Comité Técnico Implementador Regional del Aseguramiento Universal en Salud… | in force 10 October 2010 |
+| `ordenanza-regional-269-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 269-GOBIERNO REGIONAL AMAZONAS/CR: Declaran el segundo domingo de abril como el "Día del Niño" en la Región Amazonas | in force 13 September 2010 |
+| `ordenanza-regional-268-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 268 GOBIERNO REGIONAL AMAZONAS/CR: Disponen que todo aquel que presta servicios o labora en la Sede del Gobierno Regional Amazonas y las D… | in force 6 September 2010 |
+| `ordenanza-regional-262-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 262 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal - CAP Reformulado de la Red de Salud de Bagua | in force 4 September 2010 |
+| `ordenanza-regional-264-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 264 GOBIERNO REGIONAL AMAZONAS/CR: Reconocen al idioma castellano como lengua de uso nacional y a las lenguas Awajun, Wampis y Quechua com… | in force 27 August 2010 |
+| `ordenanza-regional-265-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 265- GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Plan Estratégico Regional del Recurso Hídrico de Amazonas | in force 27 August 2010 |
+| `ordenanza-regional-266-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 266-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Salud Amazonas | in force 24 August 2010 |
+| `ordenanza-regional-259-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 259-GOBIERNO REGIONAL AMAZONAS/CR: Crean el "Fondo de Desarrollo de la Amazonía para la Región Amazonas - FONDESAM AMAZONAS" | in force 22 July 2010 |
+| `ordenanza-regional-260-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 260-GOBIERNO REGIONAL AMAZONAS/CR: Institucionalizan día cívico regional laborable los días 5 de junio de cada año y la realización de act… | in force 22 July 2010 |
+| `ordenanza-regional-258-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 258 GOBIERNO REGIONAL AMAZONAS/CR: Crean el Consejo Regional de la Juventud de Amazonas | in force 14 June 2010 |
+| `ordenanza-regional-253-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 253-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Plan Estratégico Institucional (PEI) 2010-2012" | in force 13 June 2010 |
+| `ordenanza-regional-255-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 255-GOBIERNO REGIONAL AMAZONAS/CR: Modifican denominación de organismo a que se refiere la Ordenanza N° 206-GRA/CR por el de Comité Consul… | in force 17 May 2010 |
+| `ordenanza-regional-256-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 256-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones reformulado de la Dirección Regional Agraria | in force 16 May 2010 |
+| `ordenanza-regional-254-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 254-GOBIERNO REGIONAL AMAZONAS/CR: Disponen promover la utilización del lenguaje sensible al género o lenguaje inclusivo en comunicaciones… | in force 16 May 2010 |
+| `ordenanza-regional-248-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 248 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el "Plan Regional de Igualdad de Oportunidades entre Mujeres y Varones de Amazonas 2009-2021 (… | in force 13 February 2010 |
+| `ordenanza-regional-249-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 249-GOBIERNO REGIONAL AMAZONAS/CR: Constituyen la Mancomunidad Regional Amazonas - San Martín - La Libertad | in force 13 February 2010 |
+| `ordenanza-regional-250-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 250 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban normas complementarias al nuevo Reglamento Nacional de Administración del Transporte | in force 11 February 2010 |
+| `ordenanza-regional-246-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 246 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban la adecuación de la Comisión Ambiental Regional (CAR) de la Región al Decreto Legislativo N° 1… | in force 31 January 2010 |
+| `ordenanza-regional-244-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 244 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Plan Regional de Desarrollo Concertado 2009 - 2021 de la Región Amazonas | in force 22 January 2010 |
+| `ordenanza-regional-245-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 245 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Salud Amazonas | in force 1 January 2010 |
+| `ordenanza-regional-241-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 241 GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Plan Regional de Educación Comunitaria en Gestión del Riesgo de Desastres | in force 19 October 2009 |
+| `ordenanza-regional-240-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 240-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Plan Estratégico Regional de Turismo - PERTUR 2009 - 2015 | in force 19 October 2009 |
+| `ordenanza-regional-242-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 242-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Proceso de Construcción del Plan Regional de Igualdad de Oportunidades entre Mujeres y Homb… | in force 15 October 2009 |
+| `ordenanza-regional-237-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 237-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban conformación del Grupo Técnico de Gestión de Cuencas "Sistema de Conservación Regional (SICRE)… | in force 21 September 2009 |
+| `ordenanza-regional-231-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 231-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Reglamento para la elección de representantes de las Organizaciones de la Sociedad Civil ante … | in force 3 August 2009 |
+| `ordenanza-regional-235-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 235-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban el Sistema de Conservación Regional de Amazonas | in force 27 July 2009 |
+| `ordenanza-regional-234-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 234-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos de la Sede del Gobierno Regiona… | in force 27 July 2009 |
+| `ordenanza-regional-236-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 236-GOBIERNO REGIONAL AMAZONAS/CR: Aprueban Cuadro para Asignación de Personal reformulada de la Dirección Regional Agraria de Amazonas | in force 26 July 2009 |
+| `ordenanza-regional-232-gobierno-regional-amazonas-cr/` | Ordenanza Regional N° 232-GOBIERNO REGIONAL AMAZONAS/CR: Declaran de interés regional la protección, preservación y conservación de los recursos culturales exis… | in force 9 May 2009 |
 
 ## Source
 

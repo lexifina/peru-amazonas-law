@@ -257,6 +257,41 @@
     "ordenanza-regional-332-gobierno-regional-amazonas-cr"
    ],
    "sha256": "83d2fee7ee85e2aabc491c7230afd3fa3a1c9ab0bd72d4a5a230143f666f10fc"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-231-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-232-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-234-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-235-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-236-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-237-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-240-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-241-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-242-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-244-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-245-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-246-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-248-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-249-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-250-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-253-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-254-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-255-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-256-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-258-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-259-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-260-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-262-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-264-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-265-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-266-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-268-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-269-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-271-gobierno-regional-amazonas-cr",
+    "ordenanza-regional-272-gobierno-regional-amazonas-cr"
+   ],
+   "sha256": "672192e675c8d20d66356d8b1ac3f308dce6345d39d0e48513540a7db47f73ea"
   }
  },
  "schema": 1
